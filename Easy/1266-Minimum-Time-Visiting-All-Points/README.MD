@@ -15,7 +15,7 @@ You can move according to these rules:
 
  
 
-Example 1:
+Example 1:<br/>
 ![](1626_example_1.PNG)
 
 Input: points = [[1,1],[3,4],[-1,0]]
